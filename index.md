@@ -39,8 +39,8 @@ Our two major services are Email Hosting, and Web Hosting. In order to get you t
 		<tr><td>Spam protection?</td><td>Yes, with a combination of technologies including DNSBL, SpamAssassin, and others</td></tr>
 		<tr><td>Antivirus?</td><td>Yes, with Clam-AV</td></tr>
 		<tr><td>Storage Space</td><td>Tailored during enquiries</td></tr>
-		<tr><td>Number of domains and addresses?</td><td>Tailorder during enquiries, but unlimited is an option</td></tr>
-		<tr><td>SSL?</td><td>We offered trusted SSL under our mail.tuxcon.com hostname</td></tr>
+		<tr><td>Number of domains and addresses?</td><td>Tailored during enquiries, but unlimited is an option</td></tr>
+		<tr><td>SSL?</td><td>We offer trusted SSL under our mail.tuxcon.com hostname</td></tr>
 		<tr><td>Protocols?</td><td>IMAPS, POP3S, and SMTPS are all offered</td></tr>
 	</tbody>
 </table>
