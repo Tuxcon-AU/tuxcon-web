@@ -7,7 +7,7 @@ Date: 2015/01/01
 
 ## Email Access
 
-There are two primary ways to access your email. We provide 2 webmail portals (a modified SquirrelMail, and a plain RoundCube installation), but we also provide (and encourage the use of) IMAPS and POP3S. 
+There are two primary ways to access your email. We provide 2 webmail portals (a modified SquirrelMail, and a plain RoundCube installation), but we also provide (and encourage the use of) IMAPS and POP3S (with IMAPS being the recommendation out of these two).
 
 ### Webmail
 
@@ -15,7 +15,7 @@ You can access the [SquirrelMail](https://mail.tuxcon.com) interface [here](http
 
 ### Email Client
 
-You can configure your email client with the values listed below
+You can configure your email client with the values listed below:
 
 <table>
 	<thead>
@@ -25,7 +25,7 @@ You can configure your email client with the values listed below
 		<tr><td>Hostname</td><td>mail.tuxcon.com</td></tr>
 		<tr><td>IMAPS Port</td><td>993</td></tr>
 		<tr><td>POP3S Port</td><td>995</td></tr>
-		<tr><td>SMTPS Port></td><td>465 or 587</td></tr>
+		<tr><td>SMTPS Port</td><td>465 or 587</td></tr>
 		<tr><td>SSL?</td><td>Yes, for all services</td></tr>
 		<tr><td>User account for IMAP, POP, SMTP?</td><td>Your email address - user@domain.com</td></tr>
 	</tbody>
