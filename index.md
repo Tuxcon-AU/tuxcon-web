@@ -23,7 +23,7 @@ Our two major services are Email Hosting, and Web Hosting. In order to get you t
 		<tr><th>Web Hosting</th><th>Information</th></tr>
 	</thead>
 	<tbody>
-		<tr><td>Web Server Software</td><td>Nginx primarily, Apache available via reverse proxy</td></tr>
+		<tr><td>Web Server Software</td><td>Nginx primarily, Apache available via reverse proxy. All tucked away behind a HAProxy reverse proxy with SSL termination.</td></tr>
 		<tr><td>PHP</td><td>Yes, PHP 5.5 branch</td></tr>
 		<tr><td>Database</td><td>MySQL CE 5.5 Branch</td></tr>
 		<tr><td>Storage Space</td><td>Tailored during enquiries</td></tr>
