@@ -50,3 +50,7 @@ Our two major services are Email Hosting, and Web Hosting. In order to get you t
 All of our services are protected by our own 4-way backup system. We have daily/weekly/monthly filesystem snapshots available, as well as hourly or daily encrypted offsite backups of key areas (databases, website files, emails), in addition to 2 other offsite deduplicated and encrypted backups for redundancy. Additionally, one of these other offsite backups are again backed up to an offsite location (backups of backups) - you can be assured your key data is being kept safe. 
 
 All of us who work at Tuxcon know the pain data loss causes - this is why we work so hard to keep yours safe. As we are fans of both privacy and transparency, we are happy to discuss any of our methods of backup with you on a personal level, and are also open to discussing specific backup requirements in addition to what we currently have.
+
+### Contact
+
+Please send an email to **contact** _at_ **tuxcon.com** - we'll get in touch with you from there!
