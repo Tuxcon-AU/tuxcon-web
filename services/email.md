@@ -2,16 +2,16 @@
 Title: Email Access
 Description: Details on how to access and configure your email clients
 Author: Tuxcon Technology
-Date: 2015/01/01
+Date: 2017/10/19
 */
 
 ## Email Access
 
-There are two primary ways to access your email. We provide 2 webmail portals (a modified SquirrelMail, and a plain RoundCube installation), but we also provide (and encourage the use of) IMAPS and POP3S (with IMAPS being the recommendation out of these two).
+There are two primary ways to access your email. We provide webmail facilities, but we also provide (and encourage the use of) IMAPS and POP3S (with IMAPS being the recommendation out of these two).
 
 ### Webmail
 
-You can access the [SquirrelMail](https://mail.tuxcon.com) interface [here](https://mail.tuxcon.com), or the [RoundCube](https://mail.tuxcon.com/rc/) interface [here](https://mail.tuxcon.com/rc/).
+You can access the [Webmail](https://mail.tuxcon.com/SOGo) interface [here](https://mail.tuxcon.com/SOGo), or the [Management](https://mail.tuxcon.com/) interface [here](https://mail.tuxcon.com/) in order to change your password, or create temporary aliases.
 
 ### Email Client
 
