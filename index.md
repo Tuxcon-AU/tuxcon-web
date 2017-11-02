@@ -51,6 +51,15 @@ All of our services are protected by our own 4-way backup system. We have daily/
 
 All of us who work at Tuxcon know the pain data loss causes - this is why we work so hard to keep yours safe. As we are fans of both privacy and transparency, we are happy to discuss any of our methods of backup with you on a personal level, and are also open to discussing specific backup requirements in addition to what we currently have.
 
+### Payment Methods
+
+We can accept payment via:
+
+* Credit Card
+* Cheque
+* Bank Transfer
+* Digital Currencies (Monero, Bitcoin, Litecoin, Vertcoin, Ethereum, and NEO - sometimes referred to as "Cryptocurrencies")
+
 ### Contact
 
 Please send an email to **contact** _at_ **tuxcon.com** - we'll get in touch with you from there!
