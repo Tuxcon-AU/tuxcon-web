@@ -2,7 +2,7 @@
 Title: Domain Management
 Description: Manage your puchased domains
 Author: Tuxcon Technology
-Date: 2017/10/19
+Date: 2019/09/04
 */
 
 ## Domain Management

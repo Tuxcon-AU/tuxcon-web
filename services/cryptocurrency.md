@@ -2,7 +2,7 @@
 Title: Cryptocurrency Consultancy
 Description: Tuxcon.com provides cryptocurrency consulting
 Author: Tuxcon Technology
-Date: 2017/10/19
+Date: 2019/09/03
 */
 
 ## Cryptocurrency Consulting
