@@ -62,4 +62,8 @@ We can accept payment via:
 
 ### Contact
 
-Please send an email to **contact** _at_ **tuxcon.com** - we'll get in touch with you from there!
+Please send an email to **contact** _at_ **tuxcon.com** - we'll get in touch with you from there! Please keep in mind we are not able to respond to emails 24/7 - if you are using a disposable email service (such as GuerillaMail) please keep in mind those inboxes only last for 60 minutes. You can also contact Steve via [Keybase](https://keybase.io/soupyowl) if you want another anonymous, encrypted communication option.
+
+### Status Page
+
+Please check our [service status page](https://status.tuxcon.com) for current service status updated at minute-intervals, and any downtime notifications.
